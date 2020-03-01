@@ -9,4 +9,4 @@ Use with https://colab.research.google.com
 * Write in my username, ```jose-moran```
 * Select the ```jose-moran/ENSAE``` repository 
 * Select the master branch
-* Open the select the corresponding notebook  
+* Select the corresponding notebook  
